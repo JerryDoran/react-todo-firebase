@@ -6,7 +6,7 @@ const useStyles = makeStyles((theme) => ({
   list: {
     display: "grid",
     placeItems: "center",
-    marginTop: "20px"
+    marginTop: "30px"
   }
 }));
 
